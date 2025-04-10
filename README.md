@@ -5,7 +5,7 @@ I enjoy developing backend APIs, designing system architecture, and working with
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Laravel API Projects
 
 Basic
 ---
@@ -31,16 +31,14 @@ More Complex
 - RESTful API Development
 - Git / GitHub
 - Postman
-- React (for frontend integrations)
-- Linux Server Basics (Nginx, SSH)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/mustafacakar0/](#)
-- Email: mustafacakar0@outlook.com
-
+🔗 [LinkedIn](https://www.linkedin.com/in/mustafacakar0)
+---
+🔗 [Mail](mailto:mustafacakar0@outlook.com)
 ---
 
 Thanks for visiting! Feel free to explore my repositories and connect.
