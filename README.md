@@ -3,8 +3,6 @@
 I'm a full-stack developer focused on building clean, scalable, and modern web applications.  
 I enjoy developing backend APIs, designing system architecture, and working with modern tools.
 
----
-
 ## 🧩 Featured Laravel API Projects
 
 Basic
@@ -32,13 +30,9 @@ More Complex
 - Git / GitHub
 - Postman
 
----
-
 ## 📫 Contact
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mustafacakar0)
-
-🔗 [Mail](mailto:mustafacakar0@outlook.com)
-
+📧 [Mail](mailto:mustafacakar0@outlook.com)
+🔗 [LinkedIn](https://linkedin.com/in/mustafacakar0) 
 
 Thanks for visiting! Feel free to explore my repositories and connect.
