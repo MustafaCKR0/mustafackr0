@@ -37,8 +37,8 @@ More Complex
 ## 📫 Contact
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mustafacakar0)
----
+
 🔗 [Mail](mailto:mustafacakar0@outlook.com)
----
+
 
 Thanks for visiting! Feel free to explore my repositories and connect.
